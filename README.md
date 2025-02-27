@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Muaz!<br>I'm a first year Computer Science student passionate about blending tech and business. Currently, I'm diving into:<br>🔹 Object-Oriented Programming (Java)<br>🔹 Git & GitHub (Version control and collaboration)<br>🔹 Problem-Solving (LeetCode & algorithm challenges)<br><br>💡 Future Goals:<br>Learn Web Development (Javascript, HTML, CSS), C, and databases<br>Build & showcase projects<br>Participate in hackathons<br><br>📌 Stay tuned for upcoming projects and contributions!<br><br>
+👋 Hey there! I'm Muaz!<br>I'm a first-year Computer Science student passionate about blending tech and business. Currently, I'm diving into:<br>🔹 Object-Oriented Programming (Java)<br>🔹 Git & GitHub (Version control and collaboration)<br>🔹 Problem-Solving (LeetCode & algorithm challenges)<br><br>💡 Future Goals:<br>Learn Web Development (Javascript, HTML, CSS)<br>Learn C in prepation for second year courses<br>Build & showcase projects<br>Participate in hackathons<br><br>📌 Stay tuned for upcoming projects and contributions!<br><br>
 
 
 ## 🌐 Socials:
