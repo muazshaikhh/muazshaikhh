@@ -8,5 +8,5 @@ Below is where I document my projects and track my growth as a developer
 # Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,py,c,js,html,css,git,github,githubactions,spring,nodejs,postgres,postman,pytorch,react,sklean,latex,md,maven)](https://skillicons.dev)
 
-Connect with me! 
+# Connect with me! 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muaz-shaikhh/)
