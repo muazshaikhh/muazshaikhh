@@ -1,9 +1,7 @@
 # About Me:
-Hey, I’m Muaz, I'm a third-year Computer Science student building software at the intersection of technology and business.
+Hey! I’m Muaz, a third-year Computer Science student at Lassonde, passionate about technology, business, and entrepreneurship.
 
-I’m focused on full-stack development while strengthening my foundations in data structures, databases, and system design. I’m particularly interested in applying technology to real-world domains such as finance.
-
-GitHub is where I document my projects and track my growth as a developer
+I’m continuing to develop my technical skills while exploring different areas of computer science and how technology can be applied to solve real-world problems. I use GitHub to document my work and learning as I continue to grow as a developer.
 
 # Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,py,c,js,html,css,git,github,githubactions,spring,nodejs,postgres,postman,pytorch,react,sklean,latex,md,maven)](https://skillicons.dev)
